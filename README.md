@@ -1,2 +1,2 @@
-# InheritanceTest
-fff
+# 关于公司的继承例子
+
