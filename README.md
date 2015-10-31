@@ -1,0 +1,2 @@
+# InheritanceTest
+fff
